@@ -1,4 +1,10 @@
 language: node_js
 node_js:
   - "7"
+services:
+  - mongodb
+git:
+  depth: 3
+after_script:
+  - npm run test:coverage
 
