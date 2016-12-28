@@ -1,2 +1,2 @@
-# MEN-starter-kit
+# men-starter-kit
 Starter kit for Mongo + Express + Node
